@@ -518,6 +518,9 @@ input::placeholder {
 	.slider-collapse {
 		display: none;
 	}
+	.input-container {
+		flex-direction: column;
+	}
 	.contacts-input {
 		font-size: 10px;
 	}
